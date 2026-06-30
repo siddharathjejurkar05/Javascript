@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    margin-top: 300px;
+    margin-left: 500px;
+
+}
+button{
+   border-radius: 10px;
+   height: 40px;
+   width: 70px;
+   border: 1px solid black;
+   
+}
